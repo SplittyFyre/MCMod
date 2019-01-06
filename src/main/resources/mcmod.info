@@ -1,0 +1,15 @@
+[
+{
+  "modid": "std",
+  "name": "Splitfire Technological Development",
+  "description": "So many useful features!",
+  "version": "1.0",
+  "mcversion": "1.12.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Splitfire"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

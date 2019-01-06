@@ -1,0 +1,8 @@
+
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "std:items/hiking_boots"
+    
+        }
+    }
